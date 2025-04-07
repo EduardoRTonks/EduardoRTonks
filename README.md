@@ -13,7 +13,7 @@ Sou apaixonado por tecnologia, com interesse especial em **desenvolvimento de si
 
 Também tenho experiência com:
 
-- Aplicações web e REST APIs com **Python (Django)**
+- Aplicações web e APIs com **Python (Django)**
 - Desenvolvimento de scripts e simulações em **MATLAB/Octave**
 - Programação orientada a objetos em **Java**
 - Estruturação de dados e algoritmos em **C**
