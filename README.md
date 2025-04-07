@@ -1,9 +1,11 @@
-# 👋 Olá, eu sou o Eduardo Tonks!
+<h1 align="center">Olá, eu sou o Eduardo — ou Tonks 👋</h1>
 
-🎓 Estudante de **Engenharia da Computação** na PUCPR  
-💼 Estagiário em **Desenvolvimento de Software**  
-🚀 Pesquisador PIBIT com foco em **Sistemas Inteligentes para UAVs**  
-📍 Curitiba, Brasil  
+<p align="center">
+  🎓 Estudante de Engenharia de Computação na PUCPR <br>
+  💻 Estagiário em Redes e Desenvolvimento Web na Venko Networks <br>
+  🚀 Pesquisador em automação e controle aplicado a UAVs <br>
+  🌍 Apaixonado por tecnologia, inovação e conexões globais
+</p>
 
 ---
 
